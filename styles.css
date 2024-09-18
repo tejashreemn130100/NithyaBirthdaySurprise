@@ -6,12 +6,12 @@ body {
 
 .login-container, .birthday-container, .gallery-container, .message-container {
   text-align: center;
-  padding: 50px;
+  padding: 150px;
 }
 
 input {
   display: block;
-  width: 100%;
+  width: 50%;
   padding: 10px;
   margin: 10px 0;
 }
@@ -40,9 +40,9 @@ button:hover {
 }
 
 .center-pic {
-  width: 300px;
+  width: 500px;
   height: auto;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 .secret-message-button, .click-me-button {
