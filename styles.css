@@ -6,9 +6,8 @@ body {
 
 .login-container, .birthday-container, .gallery-container, .message-container {
   text-align: center;
-  padding: 150px;
+  padding: 30px;
 }
-
 input {
   display: block;
   width: 50%;
